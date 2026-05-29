@@ -1,0 +1,15 @@
+# Secret credentials - NEVER push these
+.env
+
+# ngrok executable - too large (31MB) and unnecessary
+ngrok.exe
+
+# Python cache - auto-generated, not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment - if you create one later
+venv/
+env/
+.venv/
