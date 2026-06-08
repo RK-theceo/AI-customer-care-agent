@@ -297,11 +297,6 @@ Contributions are welcome! Please follow these guidelines:
 
 ISC License - See LICENSE file for details
 
-## 📞 Support
-
-For issues and questions:
-- GitHub Issues: Report bugs and request features
-- Email: support@example.com
 
 ## 🙏 Acknowledgments
 
